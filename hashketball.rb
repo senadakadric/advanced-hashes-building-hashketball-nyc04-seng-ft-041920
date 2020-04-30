@@ -43,7 +43,7 @@ hash = {
     },
     
     {
-     :player_name => "Mason Pumlee",
+     :player_name => "Mason Plumlee",
       :number => 1,
       :shoe => 19,
       :points => 26,
