@@ -12,9 +12,7 @@ hash = {
   :away => {
     :team_name => "Charlotte Hornets",
     :colors => ["Turqoise", "Purple"],
-    :players => {
-      
-    }
+    :players => [ {} ]
   }
 
 } 
